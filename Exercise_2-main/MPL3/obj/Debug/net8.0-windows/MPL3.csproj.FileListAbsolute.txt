@@ -1,0 +1,48 @@
+D:\C# lesson\MPL3\MPL3\bin\Debug\net8.0-windows\MPL3.exe
+D:\C# lesson\MPL3\MPL3\bin\Debug\net8.0-windows\MPL3.deps.json
+D:\C# lesson\MPL3\MPL3\bin\Debug\net8.0-windows\MPL3.runtimeconfig.json
+D:\C# lesson\MPL3\MPL3\bin\Debug\net8.0-windows\MPL3.dll
+D:\C# lesson\MPL3\MPL3\bin\Debug\net8.0-windows\MPL3.pdb
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.Form1.resources
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.GenerateResource.cache
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfoInputs.cache
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfo.cs
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.CoreCompileInputs.cache
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.dll
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\refint\MPL3.dll
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.pdb
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\MPL3.genruntimeconfig.cache
+D:\C# lesson\MPL3\MPL3\obj\Debug\net8.0-windows\ref\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.exe
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.deps.json
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.runtimeconfig.json
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.pdb
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.Form1.resources
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.GenerateResource.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfoInputs.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfo.cs
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.CoreCompileInputs.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\refint\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.pdb
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.genruntimeconfig.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\ref\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.exe
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.deps.json
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.runtimeconfig.json
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\bin\Debug\net8.0-windows\MPL3.pdb
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.Form1.resources
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.GenerateResource.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfoInputs.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.AssemblyInfo.cs
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.csproj.CoreCompileInputs.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\refint\MPL3.dll
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.pdb
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\MPL3.genruntimeconfig.cache
+C:\Users\FA507NU\Downloads\Exercise_2-main\MPL3\obj\Debug\net8.0-windows\ref\MPL3.dll
